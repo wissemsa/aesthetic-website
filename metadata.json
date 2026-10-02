@@ -1,0 +1,6 @@
+{
+  "name": "WESS_SAID",
+  "description": "Luxury cosmetic clinic website featuring a cursor-following spotlight reveal hero, comprehensive treatment catalog, before & after comparisons, doctor profiles, pricing packages, and interactive consultation booking wizard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
